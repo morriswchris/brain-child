@@ -27,6 +27,8 @@ That's it!
 
 ### 1Account (1password for bank accounts)
 
+> [morriswchris](http://github.com/morriswchris)
+
 Simply put, don't you hate it when you change employers, change banks, create new accounts, or simply want to divide
 automated payments, interact transfers, etc across different bank accounts? 1Account would allow for transfers of funds 
 to be sent to an "escrow" account and then divided however the user would like. This would alleviate multiple headaches
