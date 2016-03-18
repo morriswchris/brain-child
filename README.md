@@ -25,6 +25,15 @@ That's it!
 
 #Ideas
 
+### ScoresJS
+
+> [morriswchris](http://github.com/morriswchris)
+
+The ability to run `$ scores basketball` and get a print out of all the scores for the given sport. Optional 
+```shell 
+$ scores basketball --days -1 #for yesterdays games
+```
+
 ### 1Account (1password for bank accounts)
 
 > [morriswchris](http://github.com/morriswchris)
